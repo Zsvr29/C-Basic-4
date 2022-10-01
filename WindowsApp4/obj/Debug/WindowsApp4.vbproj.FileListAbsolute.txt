@@ -1,0 +1,13 @@
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.AssemblyReference.cache
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.SuggestedBindingRedirects.cache
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+D:\arer\ilkprj\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
